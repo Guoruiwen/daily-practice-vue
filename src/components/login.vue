@@ -41,7 +41,7 @@ export default {
   },
   methods: {
     signUp_asd() {
-      this.$router.replace({ path: '/signUp' });
+      this.$router.replace({ path: '/register' });
     },
     open1() {
       this.$message({
