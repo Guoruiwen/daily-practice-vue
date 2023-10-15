@@ -1,6 +1,5 @@
 <template>
   <div id="building">
-    <div>
       <div class="login-box">
         <h2>登录系统</h2>
         <form>
@@ -24,7 +23,6 @@
           <a @click="signUp_asd">注册 </a>
         </form>
       </div>
-    </div>
   </div>
 </template>
   
